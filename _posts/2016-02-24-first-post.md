@@ -9,7 +9,7 @@ tags: [news]
 Theme updates:
 
 - Permalinks
-- Kramdown
+- Kramdown zzz
 - URL specified in config file
 - removed PDF output
 - removed some of the alternative layouts
